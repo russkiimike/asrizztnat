@@ -3,26 +3,26 @@ export const responseDatabase = {
     {
       content:
         "Check out your bench press progression. Those numbers don't lie boss",
-      imageSrc: '/assets/bench_press_graph.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/bench_press_graph.jpg',
       imageAlt: 'Bench press progress graph',
       imageCaption: 'Steady gains on the bench 📈',
     },
     {
       content:
         'Your deadlift numbers are looking insane. Show her this progress',
-      imageSrc: '/assets/deadlift_graph.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/deadlift_graph.jpg',
       imageAlt: 'Deadlift progress graph',
       imageCaption: 'From zero to beast mode 💪',
     },
     {
       content: 'The barbell hip thrust progression speaks for itself',
-      imageSrc: '/assets/barbell_hip_graph.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/barbell_hip_graph.jpg',
       imageAlt: 'Hip thrust progress graph',
       imageCaption: 'Gains are gains 🏋️‍♂️',
     },
     {
       content: 'Your squat numbers are climbing like crazy. Drop this graph',
-      imageSrc: '/assets/squat_graph.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/squat_graph.jpg',
       imageAlt: 'Squat progress graph',
       imageCaption: 'Leg day never skipped 🦵',
     },
@@ -32,7 +32,7 @@ export const responseDatabase = {
     {
       content:
         "Your chest and biceps are getting crazy attention. Here's the heat map",
-      imageSrc: '/assets/chest_biceps_map.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/chest_biceps_map.jpg',
       imageAlt: 'Chest and biceps muscle activity map',
       imageCaption: 'Upper body gains visualization 🔥',
     },
@@ -44,13 +44,13 @@ export const responseDatabase = {
     },
     {
       content: 'Your leg muscle activation is peak. Share this heat map',
-      imageSrc: '/assets/legs_map.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/legs_map.jpg',
       imageAlt: 'Leg muscle activity map',
       imageCaption: 'Never skip leg day 🦿',
     },
     {
       content: "Here's your glute activation map. The numbers don't lie",
-      imageSrc: '/assets/ass_map.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/ass_map.jpg',
       imageAlt: 'Glute muscle activity map',
       imageCaption: 'Posterior chain gains 🎯',
     },
@@ -59,20 +59,20 @@ export const responseDatabase = {
   streakResponses: [
     {
       content: 'Your consistency is unmatched. Check this streak',
-      imageSrc: '/assets/streak.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak.jpg',
       imageAlt: 'Workout streak calendar',
       imageCaption: 'Dedication level: 100% 📅',
     },
     {
       content:
         'Three months straight without missing a day. This streak is fire',
-      imageSrc: '/assets/streak1.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak1.jpg',
       imageAlt: 'Three month workout streak',
       imageCaption: '90 days of pure commitment 🔥',
     },
     {
       content: 'Six month streak incoming. Show her this dedication',
-      imageSrc: '/assets/streak2.jpg',
+      imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak2.jpg',
       imageAlt: 'Six month workout streak',
       imageCaption: '180 days and counting 💪',
     },
