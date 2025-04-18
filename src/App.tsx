@@ -105,7 +105,7 @@ function App() {
 
       {/* Main Content */}
       <div className="px-4 py-6 pb-32 max-w-2xl mx-auto">
-        <h1 className="text-3xl font-bold mb-4">How do rizz up this shawty</h1>
+        <h1 className="text-3xl font-bold mb-4">Show me my aura</h1>
 
         {isLoading ? (
           <Skeleton />

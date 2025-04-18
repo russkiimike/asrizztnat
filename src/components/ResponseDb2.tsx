@@ -2,101 +2,100 @@ export const responseDatabase = {
   progressResponses: [
     {
       content:
-        "Your bench press aura? Alpha. Numbers are straight disrespectful 🦍",
+        "Check out your bench press progression. Those numbers don't lie boss",
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/bench_press_graph.jpg',
       imageAlt: 'Bench press progress graph',
-      imageCaption: 'Chest days been hittin’ different 📈',
+      imageCaption: 'Steady gains on the bench 📈',
     },
     {
       content:
-        "Your deadlift aura? Unholy. Demons fear your grip strength 🪦",
+        'Your deadlift numbers are looking insane. Show her this progress',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/deadlift_graph.jpg',
       imageAlt: 'Deadlift progress graph',
-      imageCaption: 'Bar’s bending. Spine intact. Power unmatched 💀',
+      imageCaption: 'From zero to beast mode 💪',
     },
     {
-      content: "Barbell hip thrusts got your aura certified menace 💥",
+      content: 'The barbell hip thrust progression speaks for itself',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/barbell_hip_graph.jpg',
       imageAlt: 'Hip thrust progress graph',
-      imageCaption: 'Glutes built like armor 🛡️',
+      imageCaption: 'Gains are gains 🏋️‍♂️',
     },
     {
-      content: "Squat numbers climbing like your gym aura’s on creatine 🔥",
+      content: 'Your squat numbers are climbing like crazy. Drop this graph',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/squat_graph.jpg',
       imageAlt: 'Squat progress graph',
-      imageCaption: 'Quadzilla spotted 🦵🦖',
+      imageCaption: 'Leg day never skipped 🦵',
     },
   ],
 
   muscleMapResponses: [
     {
       content:
-        "Aura says chest and biceps got main character energy 💪",
+        "Your chest and biceps are getting crazy attention. Here's the heat map",
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/chest_biceps_map.jpg',
       imageAlt: 'Chest and biceps muscle activity map',
-      imageCaption: 'Bro split energy: MAXED 🔥',
+      imageCaption: 'Upper body gains visualization 🔥',
     },
     {
-      content: "Forearms on fire. Aura’s giving manual labor veteran 🧱",
+      content: "Look at how much you've been crushing those forearms",
       imageSrc: '/assets/forearm_map.jpg',
       imageAlt: 'Forearm muscle activity map',
-      imageCaption: 'Grip like a vice, handshake like a forklift ✊',
+      imageCaption: 'Grip strength is no joke 💪',
     },
     {
-      content: "Legs activated. Aura? Built like a squat rack 🦿",
+      content: 'Your leg muscle activation is peak. Share this heat map',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/legs_map.jpg',
       imageAlt: 'Leg muscle activity map',
-      imageCaption: 'Skipping leg day? Aura says never heard of her 🚫',
+      imageCaption: 'Never skip leg day 🦿',
     },
     {
-      content: "Glute activation chart says aura’s built for impact 💣",
+      content: "Here's your glute activation map. The numbers don't lie",
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/ass_map.jpg',
       imageAlt: 'Glute muscle activity map',
-      imageCaption: 'Certified shelf in the back 🔛',
+      imageCaption: 'Posterior chain gains 🎯',
     },
   ],
 
   streakResponses: [
     {
-      content: "Your gym aura is relentless. Streak longer than your excuses 🧠",
+      content: 'Your consistency is unmatched. Check this streak',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak.jpg',
       imageAlt: 'Workout streak calendar',
-      imageCaption: 'Discipline aura: Intimidating 📅',
+      imageCaption: 'Dedication level: 100% 📅',
     },
     {
       content:
-        "3 months straight? Aura’s giving ‘I lift through heartbreaks’ 😤",
+        'Three months straight without missing a day. This streak is fire',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak1.jpg',
       imageAlt: 'Three month workout streak',
-      imageCaption: 'No off days, just growth days 🔥',
+      imageCaption: '90 days of pure commitment 🔥',
     },
     {
-      content: "Half a year deep. Aura? Built different, stays different 🐺",
+      content: 'Six month streak incoming. Show her this dedication',
       imageSrc: 'https://dacg2ej81dyxw.cloudfront.net/assets/v6/prototypes/rizzistance_training/images/streak2.jpg',
       imageAlt: 'Six month workout streak',
-      imageCaption: 'Gym loyalty: Unbreakable bond 🫡',
+      imageCaption: '180 days and counting 💪',
     },
   ],
-
   memeResponses: [
     {
       content:
-        "Benchin' 51,000 eggplants? Aura says you’re not natural 🍆💀",
+        "You're literally benchin' the weight of 51,000 eggplants. Drop this flex",
       videoSrc:
         'https://ohmikebucket.s3.us-east-1.amazonaws.com/assets/prototypes/Meme.webm',
-      caption: 'Eggplants fear your triceps 😮‍💨',
+      caption: 'Eggplant season all year round 💪',
     },
     {
-      content: "You’re pressing 59,250 clowns? Aura’s pure gym chaos 🤡",
+      content: 'Benching 59,250 clowns worth of weight. Show her this energy',
       videoSrc:
         'https://ohmikebucket.s3.us-east-1.amazonaws.com/assets/prototypes/Meme2.webm',
-      caption: 'Clownin’ around? Not with those gains 🎪',
+      caption: 'No jokes about these gains 🎪',
     },
     {
-      content: "Curling 37,500 toilets? Aura’s full plumber mode 🚽💪",
+      content: 'Curling the equivalent of 37,500 toilets. Pure forearm gains',
       videoSrc:
         'https://ohmikebucket.s3.us-east-1.amazonaws.com/assets/prototypes/Meme3.webm',
-      caption: 'Forearms blessed by Mario himself 🔧',
+      caption: 'Grip strength level: Plumber 🔧',
     },
   ],
 };
